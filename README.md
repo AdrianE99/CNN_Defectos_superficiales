@@ -3,7 +3,6 @@
   
   ----------
   # Objetivo #
-  ----
   
   El objetivo de este trabajo es realizar un sistema que nos permita la detección de defectos existentes en las láminas en caliente de manera automática. 
   
